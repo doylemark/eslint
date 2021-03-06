@@ -3,6 +3,9 @@
   "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/doylemark/eslint-config-mark-doyle.git"
