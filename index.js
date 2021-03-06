@@ -74,7 +74,6 @@ module.exports = {
     "prefer-destructuring": 2,
     "no-nested-ternary": 2,
     "comma-dangle": 0,
-    "no-unused-vars": "off",
-    "@typescript-eslint/no-unused-vars": "error"
+    "@typescript-eslint/no-unused-vars": 0
   }
 };
