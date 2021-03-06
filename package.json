@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-mark-doyle",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doylemark/eslint-config-mark-doyle.git"
+  },
+  "author": "Mark Doyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doylemark/eslint-config-mark-doyle/issues"
+  },
+  "homepage": "https://github.com/doylemark/eslint-config-mark-doyle#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  },
+  "dependencies": {
+    "@react-native-community/eslint-config": "2.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "typescript": "^4.2.3"
+  }
+}
