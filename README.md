@@ -1,7 +1,7 @@
 ## Usage
 
 ```
-npm i eslint-config-mark-doyle --dev
+npm i @doylemark/eslint --dev
 ```
 
 In `.eslintrc`:

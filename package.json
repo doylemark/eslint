@@ -1,11 +1,8 @@
 {
-  "name": "eslint-config-mark-doyle",
+  "name": "@doylemark/eslint",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": ""
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/doylemark/eslint-config-mark-doyle.git"
