@@ -8,6 +8,6 @@ In `.eslintrc`:
 
 ```json
 { 
-  "extends": "mark-doyle", 
+  "extends": "@doylemark", 
 } 
 ```
